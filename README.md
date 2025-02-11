@@ -1,13 +1,13 @@
-# DataDo.me: AI Data Quality Enhancer
+# DataDome: AI Data Quality Enhancer
 
 ### Yantra VIT Central Hackathon '25 Finalist and Domain Best Project
 
-> What LLM is to chatbots, DataDo.me is to datasets
+> What LLM is to chatbots, DataDome is to datasets
 
 ![banner](https://github.com/user-attachments/assets/fa8a5e6b-6377-42bb-a12a-0649c249ff82)
 
 
-DataDo.me is an automated, end-to-end modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
+DataDome is an automated, end-to-end modular solution that makes the data cleaning and pre-processing tasks for your AI/ML applications a cakewalk. 
 
 It implements hypertuned algorithms to detect and resolve duplicates, missing values, outliers, and type inconsistencies. It goes a step further and scales the data, encodes categorical values, and, even augments sparse or uniform datasets with distribution-aware synthetic samples, if needed.
 
@@ -16,7 +16,7 @@ A clean, consistent dataset optimized for high-performance analytics and model t
 
 ---
 
-### **Why DataDo.me?**
+### **Why DataDome?**
 
 Compare and contrast the efficacy of a dataset cleaned with our tools versus conventional cleaning using final output metrics.
 
@@ -35,7 +35,7 @@ Compare and contrast the efficacy of a dataset cleaned with our tools versus con
 
 ## **Impact & SDG Contribution**
 
-This project aligns with **SDG 9: Industry, Innovation, and Infrastructure** by enhancing data quality and infrastructure across sectors such as healthcare, agriculture, and finance. By ensuring reliable, clean datasets, DataDo.me facilitates smarter decision-making and more impactful AI models.
+This project aligns with **SDG 9: Industry, Innovation, and Infrastructure** by enhancing data quality and infrastructure across sectors such as healthcare, agriculture, and finance. By ensuring reliable, clean datasets, DataDome facilitates smarter decision-making and more impactful AI models.
 
 With today's evolving AI paradigm, this tool ensures a mere dataset will never be a road-block to your innovation!
 ---
